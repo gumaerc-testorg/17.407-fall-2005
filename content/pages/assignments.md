@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a summary of the professor's rational for the course
+  assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
